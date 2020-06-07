@@ -1,2 +1,3 @@
-class Dog<ActiveRecord::RUBY_RELEASE_DATE
+class Dog<ActiveRecord::Base
+
 end
