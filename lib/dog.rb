@@ -1,2 +1,2 @@
-class Dog<
+class Dog<ActiveRecord::RUBY_RELEASE_DATE
 end
